@@ -1,0 +1,17 @@
+.navbar-nav{
+    margin-left: 120px;
+}
+.logout{
+    margin-left: 800px;
+    color: #ffffff;
+    cursor: pointer;
+    margin-top: 5px;
+    font-size: 19px;
+}
+.navbar{
+    background: #0B2261;
+    height: 50px;
+}
+.nav_a{
+    color: #ffffff;
+}

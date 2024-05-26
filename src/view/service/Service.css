@@ -1,0 +1,119 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.titleTarix{
+  font-size: 24px;
+  font-weight: 700;
+  color: black;
+}
+
+.addRegistr {
+  background: rgba(11, 34, 97, 5%);
+  border: 2px solid #0B2261;
+  border-radius: 10px;
+}
+
+.addRegistr .addRegistrSpan {
+  font-size: 24px;
+  font-weight: 700;
+  color: #0B2261;
+}
+
+.addxizmat-haqida {
+  justify-content: space-around;
+}
+
+.addRegistr .addRegistrInput {
+  width: 346px;
+  height: 40px;
+  color: #0B2261;
+  border-radius: 10px;
+  border: 1px solid #0B2261;
+}
+
+.addDoktor-haqida {
+  justify-content: space-around;
+}
+
+.addRegistr .button {
+  width: 365px;
+  height: 60px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff !important;
+  background: #0B2261;
+  border-radius: 10px;
+}
+
+@media(max-width:995px) {
+  .addDoktor-haqida {
+      flex-direction: column;
+      align-items: center;
+  }
+  .addRegistr .addRegistrInput {
+    width: 300px;
+    
+  }
+  .addxizmat-haqida {
+      flex-direction: column;
+      align-items: center;
+  }
+  .xizmatlar-btn1 {
+    width: 100px !important;  
+  }
+  .xizmatlar-btn2 {
+    width: 100px !important;  
+  }
+}
+
+.xizmatlar-card {
+  background: #0b2261;
+  color: #fff !important;
+  height: 326px;
+  border-radius: 10px;
+  transition: all .5s ease;
+}
+
+.xizmatlar-card:hover {
+  background:#00154e;
+  box-shadow: 5px 7px 2px rgba(11, 34, 97, 25%);
+}
+
+
+
+.xizmatlar-card .xizmatlarCardSpanpan {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 46px;
+}
+
+.xizmatlar-card .card-item-size {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px 0;
+}
+
+.xizmatlar-btn1 {
+  color: #fff !important;
+  background: #05FF00 !important;
+  transition: all .5s ease !important;
+}
+
+.xizmatlar-btn2 {
+  color: #fff !important;
+  background: #FF0000 !important;
+  transition: all .5s ease !important;
+}
+
+.xizmatlar-btn1:hover {
+  border: 1px solid #fff;
+  background: #0b2261 !important;
+}
+
+.xizmatlar-btn2:hover {
+  border: 1px solid #fff;
+  background: #0b2261 !important;
+}

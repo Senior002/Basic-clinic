@@ -1,0 +1,138 @@
+.history_img {
+    width: 100%;
+    height: 245px;
+    margin-top: 18px;
+}
+
+.history_h4 {
+    margin-left: 530px;
+    margin-top: -170px;
+    font-size: 72px;
+    color: #FFFFFF;
+}
+
+.history_h5 {
+    width: 213px;
+    height: 47px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 140px;
+    color: #000000;
+}
+
+.history_button {
+    width: 458px;
+    height: 145px;
+    margin-left: 70px;
+    top: 110px;
+    border-radius: 10px;
+    background-color: #0B2261;
+    box-shadow: 5px 5px 5px #a3a2a2;
+}
+
+.history_h2 {
+    margin-top: 152px;
+    margin-left: 580px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+.today, .week, .month, .year {
+    list-style: none !important;
+    color: white;
+    cursor: pointer;
+}
+.today:hover {
+    text-decoration: underline;
+}
+.week:hover {
+    text-decoration: underline;
+}
+.month:hover {
+    text-decoration: underline;
+}
+.year:hover {
+    text-decoration: underline;
+}
+
+.time_1 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+
+
+.fir_tab1 th, .sec_tab2 th {
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+}
+
+.teble_info {
+    height: 338px;
+    width: 1080px;
+    left: 100px;
+    top: 493.5px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background: rgba(11, 34, 97, 0.8);
+    border: 2px solid #0B2261;
+    box-shadow: 9px 10px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1;
+    top: 455px;
+    left: 240px;
+
+}
+.teble_info:hover {
+    box-shadow: none;
+    transition: 1s ease;
+}
+
+.exit .ikonka{
+    cursor: pointer;
+}
+.exit .ikonka:hover {
+    color: red;
+    transition: 1.5s ease all;
+}
+.exit {
+    display: inline-block;
+    position: absolute;
+    right: 22px;
+    bottom: 291px;
+}
+
+.midle_txt {
+    padding-top: 20px;
+    padding-bottom: 21px;
+    margin-left: 92px;
+    color: white;
+}
+
+.list_inf {
+    height: 86px;
+    width: 936px;
+    left: 172px;
+    top: 637px;
+    border-radius: 0px;
+    margin: 0 auto;
+}
+
+.teble_wrapper {
+    position: absolute;
+    width: 100vw;
+    height: 149vh;
+    background-color: rgba(245, 248, 255, 0.25);
+    top: -250px;
+    right: 0;
+    backdrop-filter: blur(25px);
+}
+.teble_wrapper2{
+    display: none;
+}
+.list_inf .fir_tab1 {
+    margin-top: 108px;
+}

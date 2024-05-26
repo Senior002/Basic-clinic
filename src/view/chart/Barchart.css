@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bar_row{
+    width: 100% !important;
+    position: relative;
+    top: 150px;
+}
+.bar_row2{
+    position: absolute;
+    top: 930px;
+    left: 80px;
+}
+.bar_p1{
+    position: absolute; 
+    top: 0px;
+    left: 0px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color1{
+    background: #0CBD0F;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name1{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_p2{
+    position: absolute; 
+    top: 65px;
+    left: 0px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color2{
+    background: #ADFF00;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name2{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.bar_p3{
+    position: absolute; 
+    top: 135px;
+    left: 0px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color3{
+    background: #FFE500;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name3{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.bar_p4{
+    position: absolute; 
+    top: 200px;
+    left: 0px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color4{
+    background: #FF6D00;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name4{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_p5{
+    position: absolute; 
+    top: 0px;
+    left: 500px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color5{
+    background: #8000FF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name5{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_p6{
+    position: absolute; 
+    top: 65px;
+    left: 500px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color6{
+    background: #3300FF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name6{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_p7{
+    position: absolute; 
+    top: 130px;
+    left: 500px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color7{
+    background: #FE0000;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name7{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_p8{
+    position: absolute; 
+    top: 200px;
+    left: 500px;
+    width: 220px;
+    height: 50px;
+}
+
+.bar_color8{
+    background: #00FFFF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -45px;
+    top: 0px;
+    border-radius: 50%;
+}
+.bar_p_name8{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 0px;
+    top: 0px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bar_title{
+    position: absolute;
+    top: 0px;
+    left: -60px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    color: #000000;
+    width: 327px;
+    height: 31px;
+}

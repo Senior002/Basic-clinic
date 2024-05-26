@@ -1,0 +1,363 @@
+[
+    {
+        "id": 1,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 80000
+    },
+    {
+        "id": 2,
+        "firstName": "Alish",
+        "lastName": "Alimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 50000
+    },
+    {
+        "id": 3,
+        "firstName": "Mahkam",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 54000
+    },
+    {
+        "id": 4,
+        "firstName": "Sijoir",
+        "lastName": "Siromov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 85200
+    },
+    {
+        "id": 5,
+        "firstName": "Bobur",
+        "lastName": "Malikov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 200000
+    },
+    {
+        "id": 6,
+        "firstName": "Bekzod",
+        "lastName": "Valiyev",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 12000
+    },
+    {
+        "id": 7,
+        "firstName": "Sharof",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 80000
+    },
+    {
+        "id": 8,
+        "firstName": "Olimov",
+        "lastName": "Sharof",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 88000
+    },
+    {
+        "id": 9,
+        "firstName": "Bekizod",
+        "lastName": "Bekov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 650000
+    },
+    {
+        "id": 10,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 60000
+    },
+    {
+        "id": 11,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 96000
+    },
+    {
+        "id": 12,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 300000
+    },
+    {
+        "id": 13,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 60000
+    },
+    {
+        "id": 14,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 133000
+    },
+    {
+        "id": 15,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 200000
+    },
+    {
+        "id": 16,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 430000
+    },
+    {
+        "id": 17,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 4300000
+    },
+    {
+        "id": 18,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 99000
+    },
+    {
+        "id": 19,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 120000
+    },
+    {
+        "id": 20,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 100000
+    },
+    {
+        "id": 21,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 40000
+    },
+    {
+        "id": 22,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 180000
+    },
+    {
+        "id": 23,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 180000
+    },
+    {
+        "id": 24,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 100000
+    },
+    {
+        "id": 25,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 100000
+    },
+    {
+        "id": 26,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 50000
+    },
+    {
+        "id": 27,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 40000
+    },
+    {
+        "id": 28,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 80000
+    },
+    {
+        "id": 29,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 80000
+    },
+    {
+        "id": 30,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 180000
+    },
+    {
+        "id": 31,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 81000
+    },
+    {
+        "id": 32,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 82000
+    },
+    {
+        "id": 33,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 83000
+    },
+    {
+        "id": 34,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 84000
+    },
+    {
+        "id": 35,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 85000
+    },
+    {
+        "id": 36,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 1,
+        "price" : 86000
+    },
+    {
+        "id": 37,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 2,
+        "price" : 87000
+    },
+    {
+        "id": 38,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 3,
+        "price" : 88000
+    },
+    {
+        "id": 39,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 4,
+        "price" : 89000
+    },
+    {
+        "id": 40,
+        "firstName": "Mahmud",
+        "lastName": "Olimov",
+        "address": "Rishton tumani, Oqyer qishlog'i",
+        "birthday" : "2000.06.03",
+        "service" : 5,
+        "price" : 90000
+    }
+    
+]

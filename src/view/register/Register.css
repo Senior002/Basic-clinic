@@ -1,0 +1,154 @@
+.r_wrapper {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top_word1 {
+    display: inline-block;
+    margin-top: 74px;
+    font-family: 'PT Sans';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 100px;
+    margin-bottom: 41px;
+}
+
+.tablet_form {
+    height: 602px;
+    width: 1080px;
+    margin-left: 100px;
+    top: 212px;
+    border-radius: 10px;
+    
+    border: 1px solid #0B2261
+}
+
+.tablet_form .form-control {
+    display: inline-block;
+}
+
+.tab_top_txt {
+    display: inline-block;
+    margin-left: 72px;
+    margin-top: 46px;
+    color: #0B2261;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.tab_inp_0 {
+    width: 346px;
+    height: 40px;
+    margin-left: 92px;
+    margin-top: 19px;
+    border: 1px solid #0B2261
+}
+
+
+.tab_inp_1{
+    width: 347px;
+    height: 40px;
+    margin-left: 112px;
+    border: 1px solid #0B2261
+}
+
+.tab_inp_2{
+    margin-top: 33px;
+    margin-left: 92px;
+    width: 346px;
+    height: 40px;
+    border: 1px solid #0B2261
+}
+
+.tab_inp_3 {
+    margin-left: 92px;
+    margin-top: 18px;
+    width: 805px;
+    height: 40px;
+    border: 1px solid #0B2261
+}
+
+.tab_txt1 {
+    display: inline-block;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    margin-left: 72px;
+    margin-top: 45px;
+    color: #0B2261 ;
+}
+
+.tab_txt2{
+    margin-left: 72px;
+    margin-top: 54px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: #0B2261 ;
+}
+
+.tab_btn{
+    margin-top: 40px;
+    margin-left: 390px;
+    width: 300px;
+    height: 70px;
+    background: #0B2261;
+    box-shadow: 5px 7px 2px 3px rgba(0, 0, 0, 0.15);
+    text-shadow: 10px 4px 7px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: white;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    margin-bottom: 34px;
+}
+
+.tab_btn:hover{
+    color: greenyellow;
+    background-color: #0b2e91;
+    text-shadow: none;
+    box-shadow: none;
+    transition: 0.5s ease;
+}
+
+.btm_btn{
+    margin-top: 78px;
+    margin-left: 411px;
+    width: 458px;
+    height: 70px;
+    background: #0B2261;
+    box-shadow: 5px 7px 2px 3px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    color: white;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.btm_btn:hover{
+    color: whitesmoke;
+    background-color: #0b2e91;
+    text-shadow: none;
+    box-shadow: none;
+    transition: 1s ease;
+}
+
+.btm_txt0{
+    margin-top: 90px;
+    margin-bottom: 35px;
+    margin-left: 491px;
+}

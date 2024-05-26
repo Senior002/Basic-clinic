@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.chart_wrapper{
+    width: 100%;
+    height: 2200px;
+    position: relative;
+}
+
+.recharts-responsive-container{
+    width: 300px !important;
+    height: 300px !important;
+}
+.pie_row{
+    width: 100%;
+    position: relative;
+}
+.dashboard_title{
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+    position: absolute;
+    top: 95px;
+    left: 657px;
+    width: 165px;
+    height: 47px;
+    }
+
+.pie_title{
+    position: absolute;
+    width: 500px;
+    height: 31px;
+    left: 100px;
+    top: 201px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.pie_chart{
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    left: calc(50% - 350px/2 - 350px);
+    top: 280px;
+}
+
+.pie_pieces{
+    position: absolute;
+    top: 250px;
+    left: 800px;
+}
+.pie_color1{
+    background: #0CBD0F;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -150px;
+    top: 35px;
+    border-radius: 50%;
+}
+.pie_p_name1{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: -90px;
+    top: 38px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.pie_color2{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -150px;
+    top: 100px;
+    border-radius: 50%;
+    background: #ADFF00;
+}
+.pie_p_name2{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: -90px;
+    top: 103px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.pie_color3{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -150px;
+    top: 165px;
+    border-radius: 50%;
+    background: #FFE500;
+}
+.pie_p_name3{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: -90px;
+    top: 168px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.pie_color4{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -150px;
+    top: 230px;
+    border-radius: 50%;
+    background: #FF6D00;
+}
+.pie_p_name4{
+    position: absolute;
+    width: 202px;
+    height: 23px;
+    left: -90px;
+    top: 238px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.pie_color5{
+    background: #8000FF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 250px;
+    top: 35px;
+    border-radius: 50%;
+}
+.pie_p_name5{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 310px;
+    top: 38px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+.pie_color6{
+    background: #3300FF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 250px;
+    top: 100px;
+    border-radius: 50%;
+}
+.pie_p_name6{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 310px;
+    top: 103px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.pie_color7{
+    background: #FE0000;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 250px;
+    top: 165px;
+    border-radius: 50%;
+}
+.pie_p_name7{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 310px;
+    top: 168px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.pie_color8{
+    background: #00FFFF;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 250px;
+    top: 235px;
+    border-radius: 50%;
+}
+.pie_p_name8{
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 310px;
+    top: 238px;;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+.bar{
+    position: absolute;
+    top: 750px;
+    left: 150px;
+}
+
+.chart_bottom{
+    position: absolute;
+    top: 2200px;
+    left: 570px;
+    width: 397px;
+    height: 18px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+
+}
